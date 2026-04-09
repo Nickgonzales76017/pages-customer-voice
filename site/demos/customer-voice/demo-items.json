@@ -1,56 +1,2802 @@
 [
   {
-    "id": "demo-customer-voice-a",
-    "file": "q2-enterprise-renewal-call.wav",
+    "id": "cv-enterprise-onboarding-friction-renewal-review-a-001",
+    "file": "enterprise renewal review — onboarding friction",
     "time": "Demo dataset",
     "status": "complete",
-    "brief": "Customer is positive about rollout speed and support responsiveness, but flagged one renewal risk: admins want easier bulk export and clearer audit logging before expansion. Recommended follow-up is a product walkthrough focused on enterprise controls and migration confidence.",
+    "brief": "Call captures onboarding friction during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
     "tags": [
-      "renewal",
       "enterprise",
-      "audit-log"
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-renewal-review-b-002",
+    "file": "enterprise renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-renewal-review-c-003",
+    "file": "enterprise renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-renewal-review-d-004",
+    "file": "enterprise renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-implementation-call-a-005",
+    "file": "enterprise implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-implementation-call-b-006",
+    "file": "enterprise implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-implementation-call-c-007",
+    "file": "enterprise implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-implementation-call-d-008",
+    "file": "enterprise implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-exec-check-in-a-009",
+    "file": "enterprise exec check-in — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "exec check-in"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "renewal risk, feature pain, onboarding friction",
-    "whyItMatters": "One call becomes part of a searchable customer signal set.",
-    "searchIntro": "One call becomes part of a searchable customer signal set. Search across the seeded records to feel that inside the app.",
-    "searchOutputs": []
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
   },
   {
-    "id": "demo-customer-voice-b",
-    "file": "Related q2-enterprise-renewal-call.wav",
+    "id": "cv-enterprise-onboarding-friction-exec-check-in-b-010",
+    "file": "enterprise exec check-in — onboarding friction",
     "time": "Demo dataset",
     "status": "complete",
-    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "Call captures onboarding friction during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
     "tags": [
-      "renewal",
       "enterprise",
-      "related"
+      "onboarding friction",
+      "exec check-in"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One call becomes part of a searchable customer signal set.",
-    "searchIntro": "One call becomes part of a searchable customer signal set. Search across the seeded records to feel that inside the app.",
-    "searchOutputs": []
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
   },
   {
-    "id": "demo-customer-voice-c",
-    "file": "Follow-up q2-enterprise-renewal-call.wav",
+    "id": "cv-enterprise-onboarding-friction-exec-check-in-c-011",
+    "file": "enterprise exec check-in — onboarding friction",
     "time": "Demo dataset",
     "status": "complete",
-    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "brief": "Call captures onboarding friction during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
     "tags": [
-      "renewal",
       "enterprise",
-      "follow-up"
+      "onboarding friction",
+      "exec check-in"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One call becomes part of a searchable customer signal set.",
-    "searchIntro": "One call becomes part of a searchable customer signal set. Search across the seeded records to feel that inside the app.",
-    "searchOutputs": []
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-exec-check-in-d-012",
+    "file": "enterprise exec check-in — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-support-escalation-a-013",
+    "file": "enterprise support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-support-escalation-b-014",
+    "file": "enterprise support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-support-escalation-c-015",
+    "file": "enterprise support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-onboarding-friction-support-escalation-d-016",
+    "file": "enterprise support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-renewal-review-a-017",
+    "file": "enterprise renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-renewal-review-b-018",
+    "file": "enterprise renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-renewal-review-c-019",
+    "file": "enterprise renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-renewal-review-d-020",
+    "file": "enterprise renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-implementation-call-a-021",
+    "file": "enterprise implementation call — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-implementation-call-b-022",
+    "file": "enterprise implementation call — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-implementation-call-c-023",
+    "file": "enterprise implementation call — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-implementation-call-d-024",
+    "file": "enterprise implementation call — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-exec-check-in-a-025",
+    "file": "enterprise exec check-in — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-exec-check-in-b-026",
+    "file": "enterprise exec check-in — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-exec-check-in-c-027",
+    "file": "enterprise exec check-in — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "exec check-in"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-exec-check-in-d-028",
+    "file": "enterprise exec check-in — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-support-escalation-a-029",
+    "file": "enterprise support escalation — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-support-escalation-b-030",
+    "file": "enterprise support escalation — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-support-escalation-c-031",
+    "file": "enterprise support escalation — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-pricing-pressure-support-escalation-d-032",
+    "file": "enterprise support escalation — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "pricing pressure",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, pricing pressure, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-renewal-review-a-033",
+    "file": "enterprise renewal review — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-renewal-review-b-034",
+    "file": "enterprise renewal review — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-renewal-review-c-035",
+    "file": "enterprise renewal review — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-renewal-review-d-036",
+    "file": "enterprise renewal review — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "renewal review"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-implementation-call-a-037",
+    "file": "enterprise implementation call — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-implementation-call-b-038",
+    "file": "enterprise implementation call — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-implementation-call-c-039",
+    "file": "enterprise implementation call — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-implementation-call-d-040",
+    "file": "enterprise implementation call — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-exec-check-in-a-041",
+    "file": "enterprise exec check-in — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-exec-check-in-b-042",
+    "file": "enterprise exec check-in — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-exec-check-in-c-043",
+    "file": "enterprise exec check-in — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-exec-check-in-d-044",
+    "file": "enterprise exec check-in — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-support-escalation-a-045",
+    "file": "enterprise support escalation — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "support escalation"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-support-escalation-b-046",
+    "file": "enterprise support escalation — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-support-escalation-c-047",
+    "file": "enterprise support escalation — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-reporting-gaps-support-escalation-d-048",
+    "file": "enterprise support escalation — reporting gaps",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures reporting gaps during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "reporting gaps",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, reporting gaps, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-renewal-review-a-049",
+    "file": "enterprise renewal review — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-renewal-review-b-050",
+    "file": "enterprise renewal review — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-renewal-review-c-051",
+    "file": "enterprise renewal review — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-renewal-review-d-052",
+    "file": "enterprise renewal review — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-implementation-call-a-053",
+    "file": "enterprise implementation call — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-implementation-call-b-054",
+    "file": "enterprise implementation call — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "implementation call"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-implementation-call-c-055",
+    "file": "enterprise implementation call — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-implementation-call-d-056",
+    "file": "enterprise implementation call — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-exec-check-in-a-057",
+    "file": "enterprise exec check-in — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-exec-check-in-b-058",
+    "file": "enterprise exec check-in — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-exec-check-in-c-059",
+    "file": "enterprise exec check-in — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-exec-check-in-d-060",
+    "file": "enterprise exec check-in — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-support-escalation-a-061",
+    "file": "enterprise support escalation — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-support-escalation-b-062",
+    "file": "enterprise support escalation — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-support-escalation-c-063",
+    "file": "enterprise support escalation — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "support escalation"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-workflow-confusion-support-escalation-d-064",
+    "file": "enterprise support escalation — workflow confusion",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures workflow confusion during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "workflow confusion",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, workflow confusion, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-renewal-review-a-065",
+    "file": "enterprise renewal review — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-renewal-review-b-066",
+    "file": "enterprise renewal review — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-renewal-review-c-067",
+    "file": "enterprise renewal review — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-renewal-review-d-068",
+    "file": "enterprise renewal review — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a renewal review with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-implementation-call-a-069",
+    "file": "enterprise implementation call — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-implementation-call-b-070",
+    "file": "enterprise implementation call — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-implementation-call-c-071",
+    "file": "enterprise implementation call — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-implementation-call-d-072",
+    "file": "enterprise implementation call — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a implementation call with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "implementation call"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-exec-check-in-a-073",
+    "file": "enterprise exec check-in — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-exec-check-in-b-074",
+    "file": "enterprise exec check-in — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-exec-check-in-c-075",
+    "file": "enterprise exec check-in — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-exec-check-in-d-076",
+    "file": "enterprise exec check-in — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a exec check-in with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-support-escalation-a-077",
+    "file": "enterprise support escalation — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-support-escalation-b-078",
+    "file": "enterprise support escalation — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-support-escalation-c-079",
+    "file": "enterprise support escalation — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-enterprise-integration-demand-support-escalation-d-080",
+    "file": "enterprise support escalation — integration demand",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures integration demand during a support escalation with a enterprise customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "enterprise",
+      "integration demand",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "enterprise, integration demand, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-renewal-review-a-081",
+    "file": "mid-market renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-renewal-review-b-082",
+    "file": "mid-market renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-renewal-review-c-083",
+    "file": "mid-market renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-renewal-review-d-084",
+    "file": "mid-market renewal review — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-implementation-call-a-085",
+    "file": "mid-market implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-implementation-call-b-086",
+    "file": "mid-market implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-implementation-call-c-087",
+    "file": "mid-market implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-implementation-call-d-088",
+    "file": "mid-market implementation call — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a implementation call with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "implementation call"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, implementation call",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-exec-check-in-a-089",
+    "file": "mid-market exec check-in — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a exec check-in with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-exec-check-in-b-090",
+    "file": "mid-market exec check-in — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a exec check-in with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "exec check-in"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-exec-check-in-c-091",
+    "file": "mid-market exec check-in — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a exec check-in with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-exec-check-in-d-092",
+    "file": "mid-market exec check-in — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a exec check-in with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "exec check-in"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, exec check-in",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-support-escalation-a-093",
+    "file": "mid-market support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-support-escalation-b-094",
+    "file": "mid-market support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-support-escalation-c-095",
+    "file": "mid-market support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-onboarding-friction-support-escalation-d-096",
+    "file": "mid-market support escalation — onboarding friction",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures onboarding friction during a support escalation with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "onboarding friction",
+      "support escalation"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, onboarding friction, support escalation",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-pricing-pressure-renewal-review-a-097",
+    "file": "mid-market renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-pricing-pressure-renewal-review-b-098",
+    "file": "mid-market renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-pricing-pressure-renewal-review-c-099",
+    "file": "mid-market renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
+  },
+  {
+    "id": "cv-mid-market-pricing-pressure-renewal-review-d-100",
+    "file": "mid-market renewal review — pricing pressure",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Call captures pricing pressure during a renewal review with a mid-market customer. The useful demo behavior is seeing that one call becomes part of a broader voice pattern instead of staying isolated.",
+    "tags": [
+      "mid-market",
+      "pricing pressure",
+      "renewal review"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "customer brief",
+      "theme cluster",
+      "voice memory"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "mid-market, pricing pressure, renewal review",
+    "whyItMatters": "Customer voice only shines when users can connect many calls into patterns, not just open one summary card.",
+    "searchIntro": "Search across many seeded customer calls to spot recurring friction, product pull, and renewal risk patterns.",
+    "searchOutputs": [
+      "theme cluster",
+      "voice memory"
+    ]
   }
 ]
