@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-customer-voice-a",
+    "file": "q2-enterprise-renewal-call.wav",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Customer is positive about rollout speed and support responsiveness, but flagged one renewal risk: admins want easier bulk export and clearer audit logging before expansion. Recommended follow-up is a product walkthrough focused on enterprise controls and migration confidence.",
+    "tags": [
+      "renewal",
+      "enterprise",
+      "audit-log"
+    ],
+    "flagged": true,
+    "demo": true,
+    "searchSummary": "renewal risk, feature pain, onboarding friction",
+    "whyItMatters": "One call becomes part of a searchable customer signal set.",
+    "searchIntro": "One call becomes part of a searchable customer signal set. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-customer-voice-b",
+    "file": "Related q2-enterprise-renewal-call.wav",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "tags": [
+      "renewal",
+      "enterprise",
+      "related"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "related signals, continuity, reuse",
+    "whyItMatters": "One call becomes part of a searchable customer signal set.",
+    "searchIntro": "One call becomes part of a searchable customer signal set. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-customer-voice-c",
+    "file": "Follow-up q2-enterprise-renewal-call.wav",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "tags": [
+      "renewal",
+      "enterprise",
+      "follow-up"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "follow-up, memory, downstream action",
+    "whyItMatters": "One call becomes part of a searchable customer signal set.",
+    "searchIntro": "One call becomes part of a searchable customer signal set. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  }
+]
