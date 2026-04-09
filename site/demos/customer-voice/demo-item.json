@@ -1,7 +1,7 @@
 {
   "id": "demo-customer-voice",
   "file": "q2-enterprise-renewal-call.wav",
-  "time": "Demo dataset",
+  "time": "Reference corpus",
   "status": "complete",
   "brief": "Customer is positive about rollout speed and support responsiveness, but flagged one renewal risk: admins want easier bulk export and clearer audit logging before expansion. Recommended follow-up is a product walkthrough focused on enterprise controls and migration confidence.",
   "tags": ["renewal", "enterprise", "audit-log"],
